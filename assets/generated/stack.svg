@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="Engineering stack and delivery focus">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono',monospace}</style>
+<rect x="1" y="1" width="998" height="268" rx="20" fill="#161B22" stroke="#30363D"/>
+<g class="m" font-size="11">
+  <text x="48" y="60" fill="#F75C7E">AI / ML</text><text x="200" y="60" fill="#E6EDF3">Python · PyTorch · TensorFlow · scikit-learn</text>
+  <text x="48" y="104" fill="#F75C7E">DATA / BACKEND</text><text x="200" y="104" fill="#E6EDF3">PostgreSQL · MongoDB · Redis · Node.js</text>
+  <text x="48" y="148" fill="#F75C7E">PLATFORM</text><text x="200" y="148" fill="#E6EDF3">Docker · Kubernetes · AWS · Azure · Grafana · Linux · Git</text>
+  <text x="48" y="192" fill="#F75C7E">PRODUCT</text><text x="200" y="192" fill="#E6EDF3">TypeScript · React · Next.js · Tailwind CSS</text>
+</g>
+<g transform="translate(746,53)" class="m" font-size="10" text-anchor="middle">
+ <rect x="0" y="0" width="205" height="164" rx="16" fill="#0D1117" stroke="#30363D"/>
+ <text x="102" y="31" fill="#8B949E">DELIVERY LOOP</text>
+ <line x1="40" y1="47" x2="165" y2="47" stroke="#30363D"/>
+ <text x="102" y="76" fill="#E6EDF3">BUILD  &gt;  TEST  &gt;  SECURE</text>
+ <text x="102" y="104" fill="#E6EDF3">OBSERVE  &gt;  ITERATE</text>
+ <text x="102" y="135" fill="#F75C7E">SHIP WITH EVIDENCE</text>
+</g>
+<line x1="48" y1="224" x2="952" y2="224" stroke="#30363D"/>
+<text x="500" y="248" text-anchor="middle" class="m" font-size="10" fill="#8B949E" letter-spacing="1.3">SYSTEMS ARE THE PRODUCT · MODELS ARE ONE COMPONENT</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="245" viewBox="0 0 1000 245" role="img" aria-label="RAG Systems Rebuild">
+<style>.m{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif}.move{stroke-dasharray:6 9;animation:m 8s linear infinite}@keyframes m{to{stroke-dashoffset:-150}}@media(prefers-reduced-motion:reduce){.move{animation:none}}</style>
+<rect width="1000" height="245" rx="22" fill="#161B22"/><rect x=".5" y=".5" width="999" height="244" rx="21.5" fill="none" stroke="#30363D"/>
+<rect x="0" y="0" width="6" height="245" rx="3" fill="#F75C7E" opacity=".7"/>
+<g class="m"><text x="38" y="44" fill="#F75C7E" font-size="11" letter-spacing="2">SYSTEMS LAB // IN BUILD</text><text x="38" y="80" fill="#E6EDF3" font-size="23" font-weight="700">RAG SYSTEMS REBUILD</text><text x="38" y="105" fill="#8B949E" font-size="12">RAGFLOW FORK · PRODUCTION-ORIENTED EXTENSION WORK</text></g>
+<text x="38" y="143" class="s" fill="#8B949E" font-size="13">Rebuilding and extending retrieval + agentic workflows; public customization is still in progress.</text>
+<g transform="translate(610,58)" class="m" font-size="10" text-anchor="middle">
+  <path d="M20 52H350" stroke="#F75C7E" stroke-width="1.5" opacity=".75" class="move"/>
+  <g fill="#0D1117" stroke="#30363D"><rect x="0" y="30" width="72" height="44" rx="10"/><rect x="92" y="30" width="72" height="44" rx="10"/><rect x="184" y="30" width="72" height="44" rx="10"/><rect x="276" y="30" width="72" height="44" rx="10"/></g>
+  <g fill="#E6EDF3"><text x="36" y="56">INGEST</text><text x="128" y="56">RETRIEVE</text><text x="220" y="56">RERANK</text><text x="312" y="56">AGENT</text></g>
+  <text x="174" y="110" fill="#8B949E">EVALUATION · OBSERVABILITY · RELIABILITY</text>
+</g>
+<g class="m" font-size="10" fill="#8B949E"><text x="38" y="193">RAG</text><text x="93" y="193">RETRIEVAL</text><text x="177" y="193">AGENTS</text><text x="240" y="193">EVALUATION</text><text x="335" y="193">OBSERVABILITY</text></g>
+<text x="38" y="220" class="m" font-size="11" fill="#F75C7E">github.com/koko-88/rag_project  &gt;</text>
+</svg>

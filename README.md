@@ -15,14 +15,6 @@
   <img src="./assets/generated/projects.svg" alt="Public Repositories: Transcript Workbench for YouTube; RAG Systems Rebuild, a Ragflow fork; UI UX Pro Max Skill fork; nanoGPT fork; JS Miner fork." width="100%" />
 </picture>
 
-<div align="center">
-  <a href="https://github.com/koko-88/yt_transcriber">Transcript Workbench</a> ·
-  <a href="https://github.com/koko-88/rag_project">RAG Systems Rebuild (fork)</a> ·
-  <a href="https://github.com/koko-88/ui-ux-pro-max-skill">UI UX Pro Max Skill (fork)</a> ·
-  <a href="https://github.com/koko-88/nanoGPT">nanoGPT (fork)</a> ·
-  <a href="https://github.com/koko-88/js-miner">JS Miner (fork)</a>
-</div>
-
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/generated/surface-mobile.svg" />
   <img src="./assets/generated/surface.svg" alt="Engineering Surface: AI and ML, data and backend, platform, product, and the delivery loop from build through test, security, observation, and shipping." width="100%" />
